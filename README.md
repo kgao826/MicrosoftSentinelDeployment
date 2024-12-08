@@ -1,4 +1,4 @@
-# Microsoft Sentinel Deployment
+# Microsoft Sentinel Deployment (WIP!)
 
 _Abstract_—Microsoft Sentinel is a cloud-based Security Information Events Management (SIEM) software that can connect to multiple data sources from an existing Azure tenant security services. Those services can operate both in the cloud and on-premises. As security threats against cloud services increase, manual, reactive responses using existing services to respond to threat alerts are no longer suitable. Instead of hiring more security operations staff to react and handle alerts, our solution incorporates Microsoft Sentinel’s Security Orchestration, Automation and Response (SOAR) feature to reduce the workload on security teams and mitigate threats by acting proactively using automation based on machine learning and artificial intelligence. Sentinel also combines fragmented security analysis reports into one unified dashboard, allowing security teams to take action from a single service rather than multiple services.
 
