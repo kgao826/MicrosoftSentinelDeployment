@@ -1,2 +1,2 @@
 8-12-2024
-Created repository and imported in thesis
+Created repository and imported in thesis in readme. Format the readme.
